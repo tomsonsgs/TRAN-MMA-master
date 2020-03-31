@@ -1,2 +1,2 @@
 # TRAN-MMA-master
-This code will be released soon if our article is upon acceptance.
+This code will be released as soon as our article is accepted.
